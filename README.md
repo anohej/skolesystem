@@ -1,5 +1,8 @@
 # skolesystem
 
+jeg gjorde dette direkte i cmd...
+
+
 SELECT * FROM klasse;
 
 
